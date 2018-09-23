@@ -39,3 +39,4 @@ http://127.0.0.1:9200/demo-3-twitter/_count
 ###############
 # C) PostgresSQL demo
 # Examples are taken from here: http://docs.confluent.io/3.2.0/connect/connect-jdbc/docs/sink_connector.html#quickstart
+
